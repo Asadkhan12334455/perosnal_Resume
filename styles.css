@@ -37,7 +37,7 @@ body:hover {
     border-right: 8px solid #67a9d4;
     position: relative;
     transition: background-color 0.3s ease;
-    background-image: url('https://www.example.com/your-pattern-image.jpg');
+    background-image: url('Profile.jpg');
     background-size: cover;
 }
 
